@@ -12,7 +12,9 @@ As part of my ongoing commitment to professional development, I undertook an Aut
 Selenium, TestNG
 
 # 2. Modules Covered:
-Organization Module: Automated creation of organizations. Scripted procedures for editing and deleting organization records. Contact Module: Developed automated scripts for creating contacts. Implemented testing procedures for editing and deleting contact records. Lead Module: Automated lead creation. Scripted tests for editing and deleting lead records. 
+Organization Module: Automated creation of organizations. Scripted procedures for editing and deleting organization records. 
+Contact Module: Developed automated scripts for creating contacts. Implemented testing procedures for editing and deleting contact records. 
+Lead Module: Automated lead creation. Scripted tests for editing and deleting lead records. 
 # 3. Sub-Modules:
 Automated processes for creating organizations, contacts, and leads. Developed scripts for robust testing of edit and delete operations.
 
