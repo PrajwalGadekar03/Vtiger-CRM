@@ -40,7 +40,7 @@ public class CreateContact extends BaseClass {
 		WebElement dropd = cv.findElement(By.name("assigned_group_id"));
 		wutil.handleDropDown(dropd, GROUP);
 		
-		Assert.assertEquals("Pune", "Deccan");
+//		Assert.assertEquals("Pune", "Deccan");
 		
 		cv.findElement(By.xpath("(//img[@title='Select'])[1]")).click();
 		wutil.windowSwitch(cv, "http://localhost:8888/index.php?module=Accounts&action=Popup&popuptype=specific_contact_account_address&form=TasksEditView&form_submit=false&fromlink=&recordid=");

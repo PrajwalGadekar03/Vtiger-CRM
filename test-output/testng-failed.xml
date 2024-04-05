@@ -3,17 +3,17 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="VTigerWithFramework.DeleteOrganization">
+      <class name="VTigerWithUsingPOM.CreateOpprtunities">
         <methods>
           <include name="AS"/>
           <include name="AC"/>
           <include name="BS"/>
           <include name="BC"/>
-          <include name="deleteOraganization"/>
+          <include name="CreateOpprtunities01"/>
           <include name="AM"/>
           <include name="BM"/>
         </methods>
-      </class> <!-- VTigerWithFramework.DeleteOrganization -->
+      </class> <!-- VTigerWithUsingPOM.CreateOpprtunities -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

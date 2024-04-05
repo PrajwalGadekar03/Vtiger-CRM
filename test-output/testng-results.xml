@@ -5,43 +5,43 @@
       <![CDATA[TestScript execution is started]]>
     </line>
   </reporter-output>
-  <suite started-at="2024-02-10T16:52:22 IST" name="Default suite" finished-at="2024-02-10T16:52:34 IST" duration-ms="12398">
+  <suite started-at="2024-04-02T17:59:17 IST" name="Default suite" finished-at="2024-04-02T17:59:31 IST" duration-ms="14164">
     <groups>
     </groups>
-    <test started-at="2024-02-10T16:52:22 IST" name="Default test" finished-at="2024-02-10T16:52:34 IST" duration-ms="12398">
-      <class name="VTigerWithFramework.DeleteLead">
-        <test-method is-config="true" signature="BS()[pri:0, instance:VTigerWithFramework.DeleteLead@3012646b]" started-at="2024-02-10T16:52:22 IST" name="BS" finished-at="2024-02-10T16:52:22 IST" duration-ms="8" status="PASS">
+    <test started-at="2024-04-02T17:59:17 IST" name="Default test" finished-at="2024-04-02T17:59:31 IST" duration-ms="14164">
+      <class name="VTigerWithUsingPOM.CreateOpprtunities">
+        <test-method is-config="true" signature="BS()[pri:0, instance:VTigerWithUsingPOM.CreateOpprtunities@82de64a]" started-at="2024-04-02T17:59:17 IST" name="BS" finished-at="2024-04-02T17:59:17 IST" duration-ms="10" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BS -->
-        <test-method is-config="true" signature="BC()[pri:0, instance:VTigerWithFramework.DeleteLead@3012646b]" started-at="2024-02-10T16:52:22 IST" name="BC" finished-at="2024-02-10T16:52:26 IST" duration-ms="3889" status="PASS">
+        <test-method is-config="true" signature="BC()[pri:0, instance:VTigerWithUsingPOM.CreateOpprtunities@82de64a]" started-at="2024-04-02T17:59:17 IST" name="BC" finished-at="2024-04-02T17:59:20 IST" duration-ms="2657" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BC -->
-        <test-method is-config="true" signature="BM()[pri:0, instance:VTigerWithFramework.DeleteLead@3012646b]" started-at="2024-02-10T16:52:26 IST" name="BM" finished-at="2024-02-10T16:52:28 IST" duration-ms="1974" status="PASS">
+        <test-method is-config="true" signature="BM()[pri:0, instance:VTigerWithUsingPOM.CreateOpprtunities@82de64a]" started-at="2024-04-02T17:59:20 IST" name="BM" finished-at="2024-04-02T17:59:22 IST" duration-ms="1965" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BM -->
-        <test-method signature="deleteLead()[pri:0, instance:VTigerWithFramework.DeleteLead@3012646b]" started-at="2024-02-10T16:52:28 IST" name="deleteLead" finished-at="2024-02-10T16:52:32 IST" duration-ms="3571" status="PASS">
+        <test-method signature="CreateOpprtunities01()[pri:0, instance:VTigerWithUsingPOM.CreateOpprtunities@82de64a]" started-at="2024-04-02T17:59:22 IST" name="CreateOpprtunities01" finished-at="2024-04-02T17:59:28 IST" duration-ms="6277" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[TestScript execution is started]]>
             </line>
           </reporter-output>
-        </test-method> <!-- deleteLead -->
-        <test-method is-config="true" signature="AM()[pri:0, instance:VTigerWithFramework.DeleteLead@3012646b]" started-at="2024-02-10T16:52:32 IST" name="AM" finished-at="2024-02-10T16:52:34 IST" duration-ms="2149" status="PASS">
+        </test-method> <!-- CreateOpprtunities01 -->
+        <test-method is-config="true" signature="AM()[pri:0, instance:VTigerWithUsingPOM.CreateOpprtunities@82de64a]" started-at="2024-04-02T17:59:28 IST" name="AM" finished-at="2024-04-02T17:59:30 IST" duration-ms="2202" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AM -->
-        <test-method is-config="true" signature="AC()[pri:0, instance:VTigerWithFramework.DeleteLead@3012646b]" started-at="2024-02-10T16:52:34 IST" name="AC" finished-at="2024-02-10T16:52:34 IST" duration-ms="412" status="PASS">
+        <test-method is-config="true" signature="AC()[pri:0, instance:VTigerWithUsingPOM.CreateOpprtunities@82de64a]" started-at="2024-04-02T17:59:30 IST" name="AC" finished-at="2024-04-02T17:59:31 IST" duration-ms="647" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AC -->
-        <test-method is-config="true" signature="AS()[pri:0, instance:VTigerWithFramework.DeleteLead@3012646b]" started-at="2024-02-10T16:52:34 IST" name="AS" finished-at="2024-02-10T16:52:34 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="AS()[pri:0, instance:VTigerWithUsingPOM.CreateOpprtunities@82de64a]" started-at="2024-04-02T17:59:31 IST" name="AS" finished-at="2024-04-02T17:59:31 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AS -->
-      </class> <!-- VTigerWithFramework.DeleteLead -->
+      </class> <!-- VTigerWithUsingPOM.CreateOpprtunities -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
