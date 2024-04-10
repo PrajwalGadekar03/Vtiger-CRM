@@ -12,13 +12,12 @@ import org.testng.annotations.Test;
 import CommonUtils.BaseClass;
 import CommonUtils.ExcelUtil;
 import CommonUtils.ListenerImplimentation;
-import CommonUtils.PropertyFileUtil;
+
 import CommonUtils.WebDriverUtil;
 
 @Listeners(ListenerImplimentation.class)
 public class CreateContact extends BaseClass {
 	
-	PropertyFileUtil putil = new PropertyFileUtil();
 	ExcelUtil eutil = new ExcelUtil();
 	WebDriverUtil wutil = new WebDriverUtil();
 	
